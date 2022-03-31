@@ -9,7 +9,7 @@ Aplicação desenvolvida utilizando Nodejs e com banco de dados noSQL MongoDB.
 
 ## Decisões Técnicas
 
-Decisões técnicas exclarecidas:
+Decisões técnicas esclarecidas:
 
 - Optei por não utilizar senha no banco de dados em modo dev.
 - O projeto e suas dependências estão com docker, permitindo uma fácil execução em qualquer ambiente.
