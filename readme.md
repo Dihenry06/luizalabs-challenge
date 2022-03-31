@@ -7,7 +7,7 @@ Aplicação desenvolvida utilizando Nodejs e com banco de dados noSQL MongoDB.
 - Docker
 - Docker-compose
 
-## Decisões de Técnicas
+## Decisões Técnicas
 
 Decisões técnicas exclarecidas:
 
@@ -34,15 +34,15 @@ A aplicação estará disponível na rota http://localhost:8080/api
 ### 2. Utilização da API
 
 Para iniciar o uso gerar um token de acesso para utilização da api.
-A rota responsavel por isso é [/auth/registration] Na response dessa requisição receberá um Token, que deverá ser utilizado no header authorization de todas as requisições.
+A rota responsável por isso é [/auth/registration](http://localhost:8080/api/auth) Na response dessa requisição receberá um Token, que deverá ser utilizado no header authorization de todas as requisições.
 
 ### Documentação
 
-https://documenter.getpostman.com/view/12136578/UVyq1cu6https://documenter.getpostman.com/view/12136578/UVyq1cu6
+https://documenter.getpostman.com/view/12136578/UVyq1cu6
 
 ```
 
 ## Sobre
 
-Desenvolvido por [Diogo Henrique](https://github.com/dihenry06).
+Desenvolvido por Diogo Henrique Soares Santos
 ```
